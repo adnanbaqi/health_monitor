@@ -3,3 +3,4 @@ Flask
 flask-cors
 simplejson
 gunicorn[gthread]
+async-timeout==4.0.2
