@@ -1,0 +1,5 @@
+git+https://github.com/adnanbaqi/petals.git
+Flask
+flask-cors
+simplejson
+gunicorn[gthread]
